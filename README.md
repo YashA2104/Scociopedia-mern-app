@@ -1,1 +1,1 @@
-# Scociopedia-mern-app
+# Sociopedia-mern-app
